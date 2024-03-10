@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Desai Harsh<br>    👀 I’m interested in WEB/APP development<br>    🌱 I’m currently doing dotnet devloper<br>    📫 How to reach me harsh.hd.desai00@gmail.com</p>
+<p align="left">👋 Hi, I’m Desai Harsh<br>    👀 I’m interested in WEB/APP development<br>    🌱 I’m currently working as dotnet devloper<br>    📫 How to reach me harsh.hd.desai00@gmail.com</p>
 
 ###
 
