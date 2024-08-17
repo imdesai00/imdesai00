@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working AS **DotNet Developer**
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning **BlockChain** & **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imdesai00](https://github.com/imdesai00)
 
