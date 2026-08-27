@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Desai Harsh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working AS **Full Stack Feveloper (DotNet Developer)**
+- 🔭 I’m currently working AS **Full Stack Developer (DotNet Developer)**
 
 - 🌱 I’m currently learning **BlockChain** & **DevOps**
 
