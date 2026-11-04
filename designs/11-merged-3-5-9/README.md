@@ -1,73 +1,47 @@
-<!-- DESIGN 11 · MERGED (03 + 05 + 09)
-     09 Bento tiles = who you are · 05 = headline, badges, TL;DR, activity · 03 = neofetch toolbox.
-     One palette (indigo → fuchsia). Every image follows GitHub's light/dark theme. -->
+<!-- DESIGN 11 · MERGED (03 + 05 + 09), all-black.
+     bento.svg    = who I am (09, stack tile replaced with "What I build")
+     terminal.svg = how I work (03, rebuilt as a real terminal session)
+     stack.svg    = every language/tool icon, grouped (05's toolbox, icons embedded)
+     activity     = 05's stats, recoloured to match. Each fact appears exactly once. -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./bento-dark.svg">
-  <img src="./bento-light.svg" width="100%" alt="Desai Harsh — Full Stack Developer (.NET + Angular), India. Open to opportunities.">
-</picture>
+<img src="./bento.svg" width="100%" alt="Desai Harsh — Full Stack Developer, based in India, open to opportunities. Builds REST APIs, web apps and data layers. Learning Blockchain and DevOps."/>
 
-<br/>
 <p align="center">
-  <a href="mailto:harsh.hd.desai00@gmail.com"><img src="https://img.shields.io/badge/Email-4f46e5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/imdesai00"><img src="https://img.shields.io/badge/X-7c3aed?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:harsh.hd.desai00@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://x.com/imdesai00"><img src="https://img.shields.io/badge/@imdesai00-0D1117?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://github.com/imdesai00?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=C084FC"/></a>
   <!-- LINKEDIN: replace YOUR_LINKEDIN_ID, then uncomment
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-a21caf?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
   -->
 </p>
 
-## ⚡ TL;DR
-> Full Stack Developer shipping **ASP.NET Core APIs**, **SQL Server** data layers and **Angular** frontends.
-> Currently levelling up in **DevOps** (Docker, CI/CD) and **Blockchain**.
+<img src="./terminal.svg" width="100%" alt="whoami: full stack developer. Principles: make it work, make it right, make it fast. Motto: Clean code. Fast APIs. No excuses."/>
 
-## 🧰 Toolbox
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./neofetch-dark.svg">
-  <img src="./neofetch-light.svg" width="100%" alt="Backend: C#, ASP.NET Core, EF Core · Frontend: Angular, TypeScript · Data: SQL Server, PostgreSQL, MongoDB · Tooling: Docker, Git, Nginx">
-</picture>
+<img src="./stack.svg" width="100%" alt="Languages: C#, TypeScript, JavaScript, Java, PHP, HTML, CSS. Frameworks: .NET, Angular, Node, Express, Bootstrap, Tailwind. Databases: SQL Server, PostgreSQL, MySQL, MongoDB, SQLite. Tools: Docker, Nginx, Git, GitHub, GitHub Actions, Visual Studio, VS Code."/>
 
-<!-- FEATURED PROJECTS: fill in real repos + a real number each, then uncomment. Do NOT publish placeholders.
-## 🏗️ Featured projects
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=imdesai00&disable_animations=true&background=0D1117&border=30363D&stroke=30363D&ring=C026D3&fire=C026D3&currStreakLabel=C084FC&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="GitHub streak"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdesai00&theme=github_dark" alt="GitHub stats"/>
+</p>
+
+<!-- FEATURED PROJECTS: fill in real repos + one real result each, then uncomment. Never publish placeholders.
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### 🔹 [repo-name](https://github.com/imdesai00/repo-name)
 **Problem →** what pain it removes<br/>
-**Result →** a real number (e.g. *cut report time 8s → 600ms*)<br/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+**Result →** a real number (e.g. *cut report time 8s → 600ms*)
 
 </td>
 <td width="50%" valign="top">
 
 #### 🔹 [repo-name](https://github.com/imdesai00/repo-name)
 **Problem →** what pain it removes<br/>
-**Result →** a real number or live demo link<br/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+**Result →** a real number or live demo link
 
 </td>
 </tr>
 </table>
 -->
 
-<!-- EXPERIENCE: fill in, then uncomment.
-## 🧭 Experience
-```diff
-+ 20XX – now   Full Stack Developer (.NET) @ Company     → what you own, one metric
-+ 20XX – 20XX  Previous role @ Company                   → what you shipped
-```
--->
-
-## 📈 Activity
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=imdesai00&date_format=M%20j%5B%2C%20Y%5D&disable_animations=true&background=161B22&border=30363D&ring=C026D3&fire=C026D3&currStreakLabel=C084FC&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&stroke=30363D">
-    <img height="165" src="https://streak-stats.demolab.com?user=imdesai00&date_format=M%20j%5B%2C%20Y%5D&disable_animations=true&background=FFFFFF&border=E5E5EA&ring=7E22CE&fire=C026D3&currStreakLabel=7E22CE&sideLabels=1D1D1F&currStreakNum=1D1D1F&sideNums=1D1D1F&dates=6E6E73&stroke=E5E5EA" alt="GitHub streak"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdesai00&theme=github_dark">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdesai00&theme=github" alt="GitHub stats"/>
-  </picture>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:c026d3&height=100&section=footer" width="100%"/>

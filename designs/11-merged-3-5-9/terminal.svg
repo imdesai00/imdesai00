@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="412" viewBox="0 0 960 412" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace">
+<style>.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect x="1" y="1" width="958" height="410" rx="20" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 21a20 20 0 0 1 20-20h918a20 20 0 0 1 20 20v27H1z" fill="#161b22"/><line x1="1" y1="48" x2="959" y2="48" stroke="#30363d"/>
+<circle cx="30" cy="25" r="6" fill="#ff5f57"/><circle cx="50" cy="25" r="6" fill="#febc2e"/><circle cx="70" cy="25" r="6" fill="#28c840"/>
+<text x="480.0" y="30" text-anchor="middle" font-size="13" fill="#8b949e">harsh@github: ~ — zsh</text>
+<text x="36" y="96" font-size="15" xml:space="preserve"><tspan fill="#7ee787" font-weight="700">harsh@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">whoami</tspan></text>
+<text x="36" y="121" font-size="15" xml:space="preserve"><tspan fill="#f0f6fc" font-weight="700">harsh</tspan><tspan fill="#8b949e"> — full stack developer who likes software that's boring in production.</tspan></text>
+<text x="36" y="156" font-size="15" xml:space="preserve"><tspan fill="#7ee787" font-weight="700">harsh@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">cat principles.txt</tspan></text>
+<text x="36" y="181" font-size="15" xml:space="preserve"><tspan fill="#c084fc" font-weight="700">[01] </tspan><tspan fill="#f0f6fc">make it work → make it right → make it fast</tspan></text>
+<text x="36" y="206" font-size="15" xml:space="preserve"><tspan fill="#c084fc" font-weight="700">[02] </tspan><tspan fill="#f0f6fc">every endpoint has a contract, every query has an index</tspan></text>
+<text x="36" y="231" font-size="15" xml:space="preserve"><tspan fill="#c084fc" font-weight="700">[03] </tspan><tspan fill="#f0f6fc">ship small, ship often, measure everything</tspan></text>
+<text x="36" y="266" font-size="15" xml:space="preserve"><tspan fill="#7ee787" font-weight="700">harsh@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">echo $MOTTO</tspan></text>
+<text x="36" y="291" font-size="15" xml:space="preserve"><tspan fill="#ffa657" font-weight="700">"Clean code. Fast APIs. No excuses."</tspan></text>
+<text x="36" y="326" font-size="15" xml:space="preserve"><tspan fill="#7ee787" font-weight="700">harsh@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc">cat contact.json</tspan></text>
+<text x="36" y="351" font-size="15" xml:space="preserve"><tspan fill="#8b949e">{ </tspan><tspan fill="#22d3ee">"email"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"harsh.hd.desai00@gmail.com"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#22d3ee">"x"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"@imdesai00"</tspan><tspan fill="#8b949e"> }</tspan></text>
+<text x="36" y="382" font-size="15" xml:space="preserve"><tspan fill="#7ee787" font-weight="700">harsh@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#f0f6fc" class="cur">█</tspan></text>
+</svg>

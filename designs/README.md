@@ -14,7 +14,7 @@ Each folder holds a complete `README.md`. To use one, copy its contents into the
 | 08 | [Code Editor](./08-code-editor) | Profile as a VS Code window, lines type in, `dotnet run` intro | **none** (self-hosted SVG) | [png](./previews/08-code-editor.png) |
 | 09 | [Bento Tiles](./09-bento-tiles) | Apple-keynote tile grid, auto light/dark | **none** (self-hosted SVG) | [dark](./previews/09-bento-tiles.png) · [light](./previews/09-bento-tiles-light.png) |
 | 10 | [Editorial](./10-editorial) | Magazine cover, big serif name, pull quote, auto light/dark | **none** (self-hosted SVG) | [dark](./previews/10-editorial.png) · [light](./previews/10-editorial-light.png) |
-| 11 | [**Merged 03 + 05 + 09**](./11-merged-3-5-9) | Bento tiles header, TL;DR, neofetch toolbox, activity; one palette, auto light/dark | own SVGs + shields, streak, summary-cards | [dark](./previews/11-merged-3-5-9.png) · [light](./previews/11-merged-3-5-9-light.png) |
+| 11 | [**Merged 03 + 05 + 09**](./11-merged-3-5-9) | All-black: Bento tiles, terminal session, grouped icon panel, activity; no repeated content | own SVGs (icons embedded) + shields, streak, summary-cards | [dark](./previews/11-merged-3-5-9.png) · [light](./previews/11-merged-3-5-9-light.png) |
 
 ## Before you ship any of them
 1. Replace every `YOUR_LINKEDIN_ID` with your real LinkedIn slug. The current README links to `linkedin.com/in/harsh desai`, which contains a space and is broken.
