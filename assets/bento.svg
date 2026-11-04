@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif">
+<defs><linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4f46e5"/><stop offset="1" stop-color="#c026d3"/></linearGradient><linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#facc15"/></linearGradient></defs>
+<rect width="960" height="560" rx="24" fill="#0d1117" stroke="#30363d"/>
+<rect x="16" y="16" width="456" height="347" rx="20" fill="url(#hero)" stroke="none"/>
+<text x="48.0" y="72.0" font-size="16" fill="#e0e7ff" font-weight="600">Hi, I'm</text>
+<text x="48.0" y="134.0" font-size="60" font-weight="800" fill="#fff" letter-spacing="-2">Desai</text>
+<text x="48.0" y="194.0" font-size="60" font-weight="800" fill="#fff" letter-spacing="-2">Harsh.</text>
+<text x="48.0" y="244.0" font-size="19" fill="#fff" font-weight="600">Full Stack Developer</text>
+<text x="48.0" y="272.0" font-size="16" fill="#e0e7ff">I turn business problems into fast APIs</text>
+<text x="48.0" y="294.0" font-size="16" fill="#e0e7ff">and clean web apps — end to end.</text>
+<rect x="488" y="16" width="220" height="165" rx="20" fill="#161b22" stroke="#30363d"/>
+<text x="512.0" y="56.0" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8b949e">BASED IN</text><text x="512.0" y="104.0" font-size="30" font-weight="800" fill="#f0f6fc">India</text>
+<text x="512.0" y="134.0" font-size="14" fill="#8b949e">IST · UTC+5:30</text><text x="512.0" y="154.0" font-size="14" fill="#8b949e">Remote friendly</text>
+<rect x="724" y="16" width="220" height="165" rx="20" fill="#161b22" stroke="#30363d"/>
+<text x="748.0" y="56.0" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8b949e">STATUS</text><circle cx="758.0" cy="98.0" r="9" fill="#22c55e"/><circle cx="758.0" cy="98.0" r="9" fill="none" stroke="#22c55e" stroke-width="2"><animate attributeName="r" values="9;20" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="786.0" y="105.0" font-size="20" font-weight="700" fill="#f0f6fc">Open to</text>
+<text x="748.0" y="142.0" font-size="20" font-weight="700" fill="#f0f6fc">opportunities</text>
+<rect x="488" y="197" width="456" height="165" rx="20" fill="#161b22" stroke="#30363d"/>
+<text x="512.0" y="237.33333333333334" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8b949e">WHAT I BUILD</text>
+<rect x="512" y="259.33333333333337" width="44" height="44" rx="12" fill="#7c3aed"/>
+<text x="534" y="288.33333333333337" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="18" font-weight="700" fill="#fff">{ }</text>
+<text x="512" y="329.33333333333337" font-size="16" font-weight="700" fill="#f0f6fc">REST APIs</text><text x="512" y="349.33333333333337" font-size="12.5" fill="#8b949e">secure · fast</text>
+<rect x="648" y="259.33333333333337" width="44" height="44" rx="12" fill="#db2777"/>
+<text x="670" y="288.33333333333337" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="700" fill="#fff">&lt;/&gt;</text>
+<text x="648" y="329.33333333333337" font-size="16" font-weight="700" fill="#f0f6fc">Web Apps</text><text x="648" y="349.33333333333337" font-size="12.5" fill="#8b949e">responsive SPAs</text>
+<rect x="784" y="259.33333333333337" width="44" height="44" rx="12" fill="#0891b2"/>
+<g fill="none" stroke="#fff" stroke-width="2.4"><ellipse cx="806" cy="273.33333333333337" rx="10" ry="4"/><path d="M796 273.33333333333337v16c0 2.2 4.5 4 10 4s10-1.8 10-4v-16M796 281.33333333333337c0 2.2 4.5 4 10 4s10-1.8 10-4"/></g>
+<text x="784" y="329.33333333333337" font-size="16" font-weight="700" fill="#f0f6fc">Data Layers</text><text x="784" y="349.33333333333337" font-size="12.5" fill="#8b949e">schemas · queries</text>
+<rect x="16" y="379" width="220" height="165" rx="20" fill="url(#sun)" stroke="none"/>
+<text x="40.0" y="418.6666666666667" font-size="12" font-weight="700" letter-spacing="1.5" fill="#fff" fill-opacity=".9">NOW LEARNING</text>
+<text x="40.0" y="468.6666666666667" font-size="26" font-weight="800" fill="#fff">Blockchain</text><text x="40.0" y="502.6666666666667" font-size="26" font-weight="800" fill="#fff">DevOps</text>
+<rect x="252" y="379" width="456" height="165" rx="20" fill="#010409" stroke="none"/>
+<circle cx="282.0" cy="406.6666666666667" r="5" fill="#ff5f57"/><circle cx="298.0" cy="406.6666666666667" r="5" fill="#febc2e"/><circle cx="314.0" cy="406.6666666666667" r="5" fill="#28c840"/>
+<text x="276.0" y="454.6666666666667" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#cdd6f4"><tspan fill="#cba6f7">var</tspan> me = <tspan fill="#cba6f7">new</tspan> <tspan fill="#f9e2af">Harsh</tspan>();</text>
+<text x="276.0" y="482.6666666666667" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#cdd6f4"><tspan fill="#cba6f7">await</tspan> me.<tspan fill="#89b4fa">ShipAsync</tspan>(<tspan fill="#a6e3a1">"your idea"</tspan>);</text>
+<text x="276.0" y="510.6666666666667" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#6c7086">// let's build something<tspan fill="#cdd6f4"> █<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+<rect x="724" y="379" width="220" height="165" rx="20" fill="#161b22" stroke="#30363d"/>
+<text x="748.0" y="418.6666666666667" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8b949e">ASK ME ABOUT</text>
+<text x="748.0" y="448.6666666666667" font-size="14.5" fill="#f0f6fc"><tspan fill="#c084fc">›</tspan> API design</text>
+<text x="748.0" y="470.6666666666667" font-size="14.5" fill="#f0f6fc"><tspan fill="#c084fc">›</tspan> EF Core &amp; LINQ</text>
+<text x="748.0" y="492.6666666666667" font-size="14.5" fill="#f0f6fc"><tspan fill="#c084fc">›</tspan> SQL tuning</text>
+<text x="748.0" y="514.6666666666667" font-size="14.5" fill="#f0f6fc"><tspan fill="#c084fc">›</tspan> Angular state</text>
+</svg>
