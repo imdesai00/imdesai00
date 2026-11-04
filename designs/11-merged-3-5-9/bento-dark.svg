@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" >
+<defs><linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4f46e5"/><stop offset="1" stop-color="#c026d3"/></linearGradient>
+<linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#facc15"/></linearGradient></defs>
+<rect width="960" height="560" rx="24" fill="#0d1117"/>
+<rect x="16" y="16" width="456" height="347" rx="20" fill="url(#hero)" stroke="none"/>
+<text x="48.0" y="72.0" font-size="16" fill="#e0e7ff" font-weight="600">Hi, I'm</text>
+<text x="48.0" y="134.0" font-size="60" font-weight="800" fill="#fff" letter-spacing="-2">Desai</text>
+<text x="48.0" y="194.0" font-size="60" font-weight="800" fill="#fff" letter-spacing="-2">Harsh.</text>
+<text x="48.0" y="242.0" font-size="18" fill="#e0e7ff">Full Stack Developer building</text>
+<text x="48.0" y="266.0" font-size="18" fill="#e0e7ff">.NET backends + Angular frontends.</text>
+<rect x="48.0" y="304.0" width="96" height="30" rx="15" fill="#ffffff" fill-opacity=".2"/><text x="96.0" y="324.0" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">INDIA</text>
+<rect x="488" y="16" width="220" height="165" rx="20" fill="#161b22" stroke="#30363d"/>
+<text x="512.0" y="56.0" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8b949e">ROLE</text>
+<text x="512.0" y="102.0" font-size="28" font-weight="800" fill="#f0f6fc">Full Stack</text>
+<text x="512.0" y="136.0" font-size="28" font-weight="800" fill="#a78bfa">.NET Dev</text>
+<rect x="724" y="16" width="220" height="165" rx="20" fill="#161b22" stroke="#30363d"/>
+<text x="748.0" y="56.0" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8b949e">STATUS</text>
+<circle cx="758.0" cy="98.0" r="9" fill="#22c55e"/><circle cx="758.0" cy="98.0" r="9" fill="none" stroke="#22c55e" stroke-width="2"><animate attributeName="r" values="9;20" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="786.0" y="105.0" font-size="20" font-weight="700" fill="#f0f6fc">Open to</text>
+<text x="748.0" y="142.0" font-size="20" font-weight="700" fill="#f0f6fc">opportunities</text>
+<rect x="488" y="197" width="456" height="165" rx="20" fill="#161b22" stroke="#30363d"/>
+<text x="512.0" y="237.33333333333334" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8b949e">STACK</text>
+<rect x="512" y="249.33333333333334" width="61" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="530" cy="263.33333333333337" r="5" fill="#239120"/>
+<text x="542" y="268.0" font-size="13" fill="#f0f6fc" font-weight="600">C#</text>
+<rect x="581" y="249.33333333333334" width="76" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="599" cy="263.33333333333337" r="5" fill="#512bd4"/>
+<text x="611" y="268.0" font-size="13" fill="#f0f6fc" font-weight="600">.NET</text>
+<rect x="665" y="249.33333333333334" width="136" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="683" cy="263.33333333333337" r="5" fill="#512bd4"/>
+<text x="695" y="268.0" font-size="13" fill="#f0f6fc" font-weight="600">ASP.NET Core</text>
+<rect x="810" y="249.33333333333334" width="99" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="828" cy="263.33333333333337" r="5" fill="#68217a"/>
+<text x="840" y="268.0" font-size="13" fill="#f0f6fc" font-weight="600">EF Core</text>
+<rect x="512" y="285.33333333333337" width="99" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="530" cy="299.33333333333337" r="5" fill="#dd0031"/>
+<text x="542" y="304.0" font-size="13" fill="#f0f6fc" font-weight="600">Angular</text>
+<rect x="619" y="285.33333333333337" width="121" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="637" cy="299.33333333333337" r="5" fill="#3178c6"/>
+<text x="649" y="304.0" font-size="13" fill="#f0f6fc" font-weight="600">TypeScript</text>
+<rect x="748" y="285.33333333333337" width="121" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="766" cy="299.33333333333337" r="5" fill="#cc2927"/>
+<text x="778" y="304.0" font-size="13" fill="#f0f6fc" font-weight="600">SQL Server</text>
+<rect x="512" y="321.33333333333337" width="91" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="530" cy="335.33333333333337" r="5" fill="#2496ed"/>
+<text x="542" y="340.0" font-size="13" fill="#f0f6fc" font-weight="600">Docker</text>
+<rect x="611" y="321.33333333333337" width="69" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="629" cy="335.33333333333337" r="5" fill="#f05032"/>
+<text x="641" y="340.0" font-size="13" fill="#f0f6fc" font-weight="600">Git</text>
+<rect x="688" y="321.33333333333337" width="121" height="28" rx="14.0" fill="#ffffff0d" stroke="#30363d"/>
+<circle cx="706" cy="335.33333333333337" r="5" fill="#4169e1"/>
+<text x="718" y="340.0" font-size="13" fill="#f0f6fc" font-weight="600">PostgreSQL</text>
+<rect x="16" y="379" width="220" height="165" rx="20" fill="url(#sun)" stroke="none"/>
+<text x="40.0" y="418.6666666666667" font-size="12" font-weight="700" letter-spacing="1.5" fill="#fff" fill-opacity=".85">NOW LEARNING</text>
+<text x="40.0" y="468.6666666666667" font-size="26" font-weight="800" fill="#fff">Blockchain</text><text x="40.0" y="502.6666666666667" font-size="26" font-weight="800" fill="#fff">DevOps</text>
+<rect x="252" y="379" width="456" height="165" rx="20" fill="#11111b" stroke="none"/>
+<circle cx="282.0" cy="406.6666666666667" r="5" fill="#ff5f57"/><circle cx="298.0" cy="406.6666666666667" r="5" fill="#febc2e"/><circle cx="314.0" cy="406.6666666666667" r="5" fill="#28c840"/>
+<text x="276.0" y="454.6666666666667" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#cdd6f4"><tspan fill="#cba6f7">var</tspan> me = <tspan fill="#cba6f7">new</tspan> <tspan fill="#f9e2af">Harsh</tspan>();</text>
+<text x="276.0" y="482.6666666666667" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#cdd6f4"><tspan fill="#cba6f7">await</tspan> me.<tspan fill="#89b4fa">ShipAsync</tspan>();</text>
+<text x="276.0" y="510.6666666666667" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#6c7086">// clean code, fast APIs<tspan fill="#cdd6f4"> █<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+<rect x="724" y="379" width="220" height="165" rx="20" fill="#161b22" stroke="#30363d"/>
+<text x="748.0" y="418.6666666666667" font-size="12" font-weight="700" letter-spacing="1.5" fill="#8b949e">SAY HI</text>
+<text x="748.0" y="462.6666666666667" font-size="20" font-weight="700" fill="#f0f6fc">@imdesai00</text>
+<text x="748.0" y="490.6666666666667" font-size="13" fill="#8b949e">harsh.hd.desai00</text><text x="748.0" y="508.6666666666667" font-size="13" fill="#8b949e">@gmail.com</text>
+</svg>
