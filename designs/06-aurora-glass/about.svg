@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" >
+<defs><filter id="ba" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<clipPath id="ca"><rect width="960" height="230" rx="22"/></clipPath>
+<linearGradient id="ga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect width="960" height="230" rx="22" fill="#0b0a1f"/>
+<g clip-path="url(#ca)" filter="url(#ba)" opacity=".85">
+<circle cx="192.0" cy="57.5" r="170" fill="#7c3aed"><animateTransform attributeName="transform" type="translate" values="0 0;90 50;0 0" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="768.0" cy="184.0" r="190" fill="#0891b2"><animateTransform attributeName="transform" type="translate" values="0 0;-110 -40;0 0" dur="16s" repeatCount="indefinite"/></circle>
+<circle cx="528.0" cy="23.0" r="120" fill="#db2777"><animateTransform attributeName="transform" type="translate" values="0 0;-60 70;0 0" dur="11s" repeatCount="indefinite"/></circle>
+</g><rect x="36" y="36" width="285" height="158" rx="16" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".2"/>
+<rect x="60" y="62" width="28" height="4" rx="2" fill="#a78bfa"/>
+<text x="60" y="92" font-size="12" font-weight="700" letter-spacing="2" fill="#a78bfa">BUILDING</text>
+<text x="60" y="124" font-size="20" font-weight="700" fill="#fff">Production REST APIs</text>
+<text x="60" y="152" font-size="14" fill="#cbd5e1">ASP.NET Core + EF Core</text>
+<text x="60" y="174" font-size="14" fill="#94a3b8">on SQL Server</text><rect x="337" y="36" width="285" height="158" rx="16" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".2"/>
+<rect x="361" y="62" width="28" height="4" rx="2" fill="#22d3ee"/>
+<text x="361" y="92" font-size="12" font-weight="700" letter-spacing="2" fill="#22d3ee">SHIPPING</text>
+<text x="361" y="124" font-size="20" font-weight="700" fill="#fff">Angular frontends</text>
+<text x="361" y="152" font-size="14" fill="#cbd5e1">typed, tested, fast</text>
+<text x="361" y="174" font-size="14" fill="#94a3b8">in TypeScript</text><rect x="639" y="36" width="285" height="158" rx="16" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".2"/>
+<rect x="663" y="62" width="28" height="4" rx="2" fill="#f472b6"/>
+<text x="663" y="92" font-size="12" font-weight="700" letter-spacing="2" fill="#f472b6">EXPLORING</text>
+<text x="663" y="124" font-size="20" font-weight="700" fill="#fff">Blockchain &amp; DevOps</text>
+<text x="663" y="152" font-size="14" fill="#cbd5e1">CI/CD · containers</text>
+<text x="663" y="174" font-size="14" fill="#94a3b8">smart contracts</text>
+</svg>

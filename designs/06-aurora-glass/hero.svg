@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" >
+<defs><filter id="bh" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<clipPath id="ch"><rect width="960" height="420" rx="22"/></clipPath>
+<linearGradient id="gh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect width="960" height="420" rx="22" fill="#0b0a1f"/>
+<g clip-path="url(#ch)" filter="url(#bh)" opacity=".85">
+<circle cx="192.0" cy="105.0" r="170" fill="#7c3aed"><animateTransform attributeName="transform" type="translate" values="0 0;90 50;0 0" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="768.0" cy="336.0" r="190" fill="#0891b2"><animateTransform attributeName="transform" type="translate" values="0 0;-110 -40;0 0" dur="16s" repeatCount="indefinite"/></circle>
+<circle cx="528.0" cy="42.0" r="120" fill="#db2777"><animateTransform attributeName="transform" type="translate" values="0 0;-60 70;0 0" dur="11s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="36" y="36" width="888" height="348" rx="20" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".22"/>
+<circle cx="132" cy="138" r="54" fill="url(#gh)"/><text x="132" y="152" text-anchor="middle" font-size="40" font-weight="800" fill="#0b0a1f">DH</text>
+<text x="212" y="128" font-size="54" font-weight="800" fill="#ffffff" letter-spacing="-1">Desai Harsh</text>
+<text x="214" y="166" font-size="20" fill="#cbd5e1">Full Stack Developer  ·  .NET  ·  Angular</text>
+<rect x="214" y="186" width="214" height="30" rx="15" fill="#10b981" fill-opacity=".15" stroke="#10b981" stroke-opacity=".6"/>
+<circle cx="234" cy="201" r="5" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="248" y="206" font-size="14" font-weight="600" fill="#a7f3d0">Open to opportunities</text>
+<text x="888" y="92" text-anchor="end" font-size="15" fill="#94a3b8">India</text>
+<text x="888" y="116" text-anchor="end" font-size="15" fill="#94a3b8">github.com/imdesai00</text>
+<line x1="76" y1="250" x2="884" y2="250" stroke="#ffffff" stroke-opacity=".15"/>
+<text x="78" y="282" font-size="12" font-weight="700" letter-spacing="2" fill="#94a3b8">CORE STACK</text>
+<rect x="78" y="296" width="48" height="32" rx="16.0" fill="#ffffff14" stroke="#ffffff30"/>
+<text x="94" y="317.0" font-size="14" fill="#e2e8f0" font-weight="600">C#</text>
+<rect x="136" y="296" width="64" height="32" rx="16.0" fill="#ffffff14" stroke="#ffffff30"/>
+<text x="152" y="317.0" font-size="14" fill="#e2e8f0" font-weight="600">.NET</text>
+<rect x="211" y="296" width="129" height="32" rx="16.0" fill="#ffffff14" stroke="#ffffff30"/>
+<text x="227" y="317.0" font-size="14" fill="#e2e8f0" font-weight="600">ASP.NET Core</text>
+<rect x="350" y="296" width="89" height="32" rx="16.0" fill="#ffffff14" stroke="#ffffff30"/>
+<text x="366" y="317.0" font-size="14" fill="#e2e8f0" font-weight="600">Angular</text>
+<rect x="449" y="296" width="113" height="32" rx="16.0" fill="#ffffff14" stroke="#ffffff30"/>
+<text x="465" y="317.0" font-size="14" fill="#e2e8f0" font-weight="600">TypeScript</text>
+<rect x="572" y="296" width="113" height="32" rx="16.0" fill="#ffffff14" stroke="#ffffff30"/>
+<text x="588" y="317.0" font-size="14" fill="#e2e8f0" font-weight="600">SQL Server</text>
+<rect x="695" y="296" width="81" height="32" rx="16.0" fill="#ffffff14" stroke="#ffffff30"/>
+<text x="711" y="317.0" font-size="14" fill="#e2e8f0" font-weight="600">Docker</text>
+<text x="78" y="368" font-size="15" fill="#cbd5e1">Now learning  <tspan fill="#f0abfc" font-weight="700">Blockchain</tspan>  ·  <tspan fill="#67e8f9" font-weight="700">DevOps</tspan></text>
+</svg>
